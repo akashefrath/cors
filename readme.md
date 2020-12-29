@@ -1,7 +1,7 @@
 # cors-now 
 
 > reverse proxy with CORS headers.
-
+https://heroku.com/deploy?template=https://github.com/akashefrath/cors
 
 ## Usage:
 
